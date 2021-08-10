@@ -1,0 +1,172 @@
+/*begin custom*/
+section{
+    padding: 60px 0px;
+}
+/*top nav*/
+a.navbar-brand {
+    font-size: 15px;
+    color: #ddd!important;
+    word-spacing: 1px;
+}
+/*banner section*/
+.banner-section{
+    background: url(image/jumbo-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container.text {
+  text-align: center;
+}
+.banner-info h1 {
+    font-size: 5.5rem;
+    font-weight: 300;
+}
+
+.banner-info p {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+.btn-group .btn {
+    padding: 8px 16px;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 5px;
+}
+/*about section*/
+.abt-info-p p {
+    margin-bottom: 25px;
+}
+.about-image img {
+    max-width: 100%;
+    border-radius: 4px;
+}
+.single-about h3 {
+    margin-bottom: 20px;
+}
+
+.about-image {
+    margin-bottom: 20px;
+}
+.single-about h3 {
+    margin-bottom: 20px;
+}
+
+.about-image {
+    margin-bottom: 20px;
+}
+
+ul.list-group li {
+    padding: 12px 15px;
+}
+/*speakers section*/
+.speakers-section{
+    padding: 0;
+}
+.speakers-image img {
+    max-width: 100%;
+}
+
+.heading-title h1 {
+    font-size: 55px;
+    font-weight: 300;
+    color: #666;
+}
+
+.heading-title {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.single-speakers {
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-bottom: 15px;
+}
+
+.speakers-info {
+    padding: 20px;
+}
+
+.speakers-info p {
+    margin-bottom: 0;
+}
+/*schedule section*/
+li.list-group-item p {
+    margin-bottom: 5px;
+}
+
+li.list-group-item h4 {
+    font-size: 20px;
+}
+
+ul.list-group li {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+li.list-group-item span {
+    border-radius: 50px;
+    line-height: 25px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+/*register button*/
+button.btn.btn-outline-info {
+    font-size: 20px;
+    padding: 8px 15px;
+}
+.reg-btn .btn:hover {
+    color: white;
+}
+/*sign up form*/
+.sign-up-form{
+    padding-bottom: 0;
+}
+.sign-up-abt h6 {
+    color: #999;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.sign-up-abt p {
+    color: #999;
+}
+hr.top {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    background-color: #9c9898;
+}
+
+hr.bottom {
+    margin-top: 50px;
+    background-color: #9c9898;
+}
+/*footer section*/
+button.btn.btn-outline-secondary {
+    font-size: 15px;
+    border-radius: 3px;
+}
+
+.btn-group button:first-child {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.btn-group .btn {
+    padding: 8px 12px;  
+}
+.lastbar{
+    padding: 20px 0;
+}
+footer.lastbar p {
+    font-size: 14px;
+    color: #666;
+}
+button.btn-close {
+  font-size: 10px;
+}
+.footer-btn .btn {
+  font-size: 20px;
+  padding: 7px 18px;
+  border-radius: 5px;
+}
+                    
